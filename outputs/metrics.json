@@ -1,0 +1,10 @@
+{
+    "MAE": 1.1335,
+    "RMSE": 2.0303,
+    "WAPE_percent": 79.0702,
+    "test_days": 28,
+    "train_rows": 185700,
+    "test_rows": 2800,
+    "test_start": "2016-03-28",
+    "test_end": "2016-04-24"
+}
