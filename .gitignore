@@ -1,0 +1,15 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+data/sales_train_validation.csv
+data/calendar.csv
+data/sell_prices.csv
+
+data/processed/
+models/
+outputs/
+
+.streamlit/secrets.toml
+.env
